@@ -34,17 +34,15 @@ The app allows users to discover charging stations, monitor charging sessions, a
 
 ---
 
-## 📸 Screenshots
-
-| Login | Home | Find Stations |
-|-------|------|---------------|
-| ![Login](login.png) | ![Home](home.png) | ![Find Stations](findstations.png) |
-
-| Profile | App Logo | Full App Design |
-|---------|----------|----------------|
-| ![Profile](profile.png) | ![Logo](logo.png) | ![Full App Design](EV-Charger-APP-Design.png) |
+## 📂 Project Structure
+- `login.png` – Login screen design  
+- `Home.png` – Home screen design  
+- `FindStations.png` – Charging stations discovery screen  
+- `Profile.png` – User profile screen  
+- `logo.png` – App logo  
+- `EV-Charger-APP-Design.png` – Full app design overview  
 
 ---
 
-## 📂 Project Structure
-
+## ✅ Status
+Project Completed
