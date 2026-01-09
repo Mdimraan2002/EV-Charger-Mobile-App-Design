@@ -1,87 +1,113 @@
-<p align="center">
-  <img src="logo.png" width="120" />
+<!-- ========================================================= -->
+<!--                 EV CHARGER APP – UI/UX                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<h1>🚗 EV Charger Mobile App</h1>
+<h3>Modern UI/UX Design • Mobile First • Figma</h3>
+
+<p>
+A sleek and intuitive <b>EV Charging Mobile Application UI/UX Design</b> focused on
+<b>usability, accessibility, and modern design principles</b>.
 </p>
 
-<h1 align="center">🚗 EV Charger Mobile App – UI/UX Design</h1>
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-blue?logo=figma&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Mobile-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+
+<br><br>
+
+</div>
+
+---
+
+## 🧠 Design Philosophy
+This project follows a **user-first design approach**, ensuring that EV users can:
+
+- Discover charging stations effortlessly  
+- Track charging sessions in real time  
+- Navigate through clean, minimal interfaces  
+- Experience consistent and intuitive interactions  
+
+Every screen is designed with **clarity, simplicity, and accessibility** in mind.
+
+---
+
+## 🎯 Objectives
+✔ Create a modern EV-focused interface  
+✔ Improve discoverability of charging stations  
+✔ Simplify charging session monitoring  
+✔ Maintain visual consistency across screens  
+✔ Deliver a smooth mobile experience  
+
+---
+
+## ✨ Core Features
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Charger Discovery  
+Locate nearby EV charging stations quickly using an intuitive interface.
+
+### ⏱ Live Charging Status  
+Monitor charging progress, duration, and session details in real time.
+
+</td>
+<td width="50%">
+
+### 🎨 Clean Visual Design  
+Minimal UI with balanced colors, typography, and spacing.
+
+### 🧭 Seamless Navigation  
+Well-structured flows for effortless user movement.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📱 UI Screens Overview
+| Screen Name | Description |
+|------------|------------|
+| **Login** | Secure user authentication |
+| **Home Dashboard** | Central control panel |
+| **Find Stations** | Discover nearby chargers |
+| **Profile** | User preferences & settings |
+| **App Logo** | Brand identity |
+| **Full UI Preview** | Complete app design |
+
+---
+
+## 🛠 Tools & Skills
+- 🎨 **Figma** – UI/UX & Prototyping  
+- 🧩 **Wireframing** – Low & High Fidelity  
+- 📐 **Design Systems** – Consistency & Scalability  
+- ♿ **Accessibility Principles**  
+- 📱 **Mobile-First Design**  
+
+---
+
+## 📊 Project Status
+> 🟢 **Completed Successfully**
+
+---
+
+## 🌟 Key Highlights
+- Portfolio-ready UI/UX project  
+- Real-world EV application concept  
+- Strong focus on usability & clean design  
+- Suitable for product & startup environments  
+
+---
+
+⭐ **Star this repository** if you find it useful  
+💬 Open to feedback and opportunities  
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" />
-  <img src="https://img.shields.io/badge/Status-Completed-success" />
-  <img src="https://img.shields.io/badge/Platform-Mobile-lightgrey" />
-</p>
-
-<p align="center">
-  A <strong>modern, clean, and intuitive EV Charger mobile app UI/UX design</strong><br/>
-  crafted in <strong>Figma</strong> to deliver a seamless electric vehicle charging experience.
-</p>
-
----
-
-## ✨ About the Project
-
-This project demonstrates **high-quality UI/UX design skills** focused on building a **user-centric EV charging application**.
-
-The design prioritizes:
-
-- 🎨 **Modern & minimal visual aesthetics**
-- 🧭 **Smooth and intuitive navigation**
-- 👤 **User-friendly and accessible interactions**
-- ⚡ **Fast discovery of EV charging stations**
-
-The app experience is designed to help users **locate charging stations**, **track charging progress**, and **navigate effortlessly**, making EV charging simple and stress-free.
-
----
-
-## 🚀 Key Highlights
-
-- ⚡ **Nearby Charger Discovery**  
-  Instantly locate nearby EV charging stations with a clean map-based layout  
-
-- ⏱ **Charging Status & Progress Tracking**  
-  Monitor charging sessions in real time with clear visual indicators  
-
-- 🎨 **Clean & Modern UI Design**  
-  Minimal layouts with consistent typography and color usage  
-
-- 🧭 **Seamless User Navigation**  
-  Optimized flows for both first-time and experienced users  
-
-- 📱 **Mobile-First Design Approach**  
-  Fully optimized for smartphone usability  
-
----
-
-## 🛠 Tools & Technologies
-
-- **Figma** – UI/UX design and high-fidelity visual layouts  
-- **Wireframing** – Structuring app flow and screen hierarchy  
-- **Prototyping** – Interactive transitions and user journeys  
-- **Design Principles** – Accessibility, clarity, consistency, and usability  
-
----
-
-## 📂 Project Structure
-
-```text
-📁 EV-Charger-UIUX
-┣ 📄 login.png → Login screen design
-┣ 📄 Home.png → Home dashboard screen
-┣ 📄 FindStations.png → Charging station discovery
-┣ 📄 Profile.png → User profile screen
-┣ 📄 logo.png → Application logo
-┗ 📄 EV-Charger-APP-Design.png → Complete app design overview
-
-## ✅ Project Status
-
-🟢 **Completed**  
-
-## 📜 License
-
-This project is intended for **educational and portfolio purposes only**.  
-All design assets are © 2026 **MI**. All rights reserved.
-
----
-
-<p align="center">
-  ⭐ If you like this design, consider giving the repository a star!
+<b>Designed with ❤️ using Figma</b>
 </p>
