@@ -1,48 +1,87 @@
-# 🚗 EV Charger Mobile App – UI/UX Design
+<p align="center">
+  <img src="logo.png" width="120" />
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-Design-blue?logo=figma)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-![Mobile](https://img.shields.io/badge/Platform-Mobile-lightgrey)
+<h1 align="center">🚗 EV Charger Mobile App – UI/UX Design</h1>
 
-A **modern EV charger mobile app UI/UX design** created with Figma, focusing on seamless user experience for locating charging stations and managing charging sessions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+  <img src="https://img.shields.io/badge/Platform-Mobile-lightgrey" />
+</p>
+
+<p align="center">
+  A <strong>modern, clean, and intuitive EV Charger mobile app UI/UX design</strong><br/>
+  crafted in <strong>Figma</strong> to deliver a seamless electric vehicle charging experience.
+</p>
 
 ---
 
-## 🔹 About the Project
-This project showcases **UI/UX design skills** for a mobile application emphasizing:  
-- Clean, modern design  
-- Intuitive navigation  
-- User-friendly interactions  
+## ✨ About the Project
 
-The app allows users to discover charging stations, monitor charging sessions, and navigate effortlessly.
+This project demonstrates **high-quality UI/UX design skills** focused on building a **user-centric EV charging application**.
+
+The design prioritizes:
+
+- 🎨 **Modern & minimal visual aesthetics**
+- 🧭 **Smooth and intuitive navigation**
+- 👤 **User-friendly and accessible interactions**
+- ⚡ **Fast discovery of EV charging stations**
+
+The app experience is designed to help users **locate charging stations**, **track charging progress**, and **navigate effortlessly**, making EV charging simple and stress-free.
 
 ---
 
-## ✨ Key Features
-- ⚡ **Charger station discovery** – Find nearby EV chargers quickly  
-- ⏱ **Charging status & progress** – Real-time monitoring  
-- 🎨 **Clean & modern UI** – Visually appealing layouts  
-- 🧭 **User-friendly navigation** – Easy to use for all audiences  
-- 📱 **Mobile-first design** – Optimized for smartphones  
+## 🚀 Key Highlights
+
+- ⚡ **Nearby Charger Discovery**  
+  Instantly locate nearby EV charging stations with a clean map-based layout  
+
+- ⏱ **Charging Status & Progress Tracking**  
+  Monitor charging sessions in real time with clear visual indicators  
+
+- 🎨 **Clean & Modern UI Design**  
+  Minimal layouts with consistent typography and color usage  
+
+- 🧭 **Seamless User Navigation**  
+  Optimized flows for both first-time and experienced users  
+
+- 📱 **Mobile-First Design Approach**  
+  Fully optimized for smartphone usability  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Figma** – UI/UX Design  
-- **Wireframing & Prototyping**  
-- **Design Principles** – Accessibility, Clarity, Consistency  
+
+- **Figma** – UI/UX design and high-fidelity visual layouts  
+- **Wireframing** – Structuring app flow and screen hierarchy  
+- **Prototyping** – Interactive transitions and user journeys  
+- **Design Principles** – Accessibility, clarity, consistency, and usability  
 
 ---
 
 ## 📂 Project Structure
-- `login.png` – Login screen design  
-- `Home.png` – Home screen design  
-- `FindStations.png` – Charging stations discovery screen  
-- `Profile.png` – User profile screen  
-- `logo.png` – App logo  
-- `EV-Charger-APP-Design.png` – Full app design overview  
+
+```text
+📁 EV-Charger-UIUX
+┣ 📄 login.png → Login screen design
+┣ 📄 Home.png → Home dashboard screen
+┣ 📄 FindStations.png → Charging station discovery
+┣ 📄 Profile.png → User profile screen
+┣ 📄 logo.png → Application logo
+┗ 📄 EV-Charger-APP-Design.png → Complete app design overview
+
+## ✅ Project Status
+
+🟢 **Completed**  
+
+## 📜 License
+
+This project is intended for **educational and portfolio purposes only**.  
+All design assets are © 2026 **MI**. All rights reserved.
 
 ---
 
-## ✅ Status
-Project Completed
+<p align="center">
+  ⭐ If you like this design, consider giving the repository a star!
+</p>
